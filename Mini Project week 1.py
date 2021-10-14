@@ -1,4 +1,4 @@
-# Dit miniproject is gemaakt door Sha en zij vond het superleuk!
+# Dit miniproject is gemaakt door Edwin
 import random
 R = random.randint(1,100)
             #print(R) this function shows the right answer
