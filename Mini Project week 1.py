@@ -1,4 +1,6 @@
 # Dit miniproject is gemaakt door Edwin
+# Het doel van dit script is een nummer raden
+# Het is geschreven in Python
 import random
 R = random.randint(1,100)
             #print(R) this function shows the right answer
